@@ -33,4 +33,32 @@ Minecraft launcher herhangi bir sürüm seçip anında minecrafta girebileceğin
 
 # Nasıl Özelleştirilir?
 
-Yakında Eklenecek
+**Discord Rich Presence Özelleştirme**
+
+1. Öncelikle https://discord.com/developers/applications sayfasını açın
+2. New Application a tıklayın isim girip create ye tıklayın
+3. Application idnizi kopyalayın ve **Application id** yerine yapıştırın
+4. Rich presence kısmına gelin add image e basın ve resim yükleyin (resim ismini unutmayın)
+5. Yüklediğiniz resimleri isimlerini **kresim** **bresim** kısmına yapıştırın (kresim küçük resimdir bresim büyük olandır)
+6. Resimlere gelince ne yazmasını istiyorsanız **krdetay** **brdetay** kısmına yazın (krdetay küçük resimdir brdetay büyük olandır)
+7. Ne yazmasını istediğinizi **Detay** ve **Detay2** kısmına yazın
+
+**Uyarı**
+Resimler 5- 20 dakika içinde discorda yüklenir bundan dolayı hata verebilir
+
+**Örnek**
+
+```
+this.handlers = default(discordRPC.EventHandlers);
+discordRPC.Initialize("Application id", ref this.handlers, true, null);
+this.presence.details = "Detay";
+this.presence.state = "Detay2";
+this.presence.largeImageKey = "kresim";
+this.presence.smallImageKey = "bresim";
+this.presence.largeImageText = "krdetay";
+this.presence.smallImageText = "brdetay";
+this.presence.startTimestamp = (long)(DateTime.UtcNow - new DateTime(1970, 1, 1, 0, 0, 0)).TotalSeconds;
+discordRPC.UpdatePresence(ref this.presence);
+path();
+```
+
