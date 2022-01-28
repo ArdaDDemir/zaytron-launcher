@@ -28,5 +28,5 @@ Açılış Sayfası
 <p align="left">
   <img src="https://ardademir.me/cdn/Screenshot_5.png" alt="Görsel 2" width="512" height="712">
 </p>
-
-
+# Nasıl Özelleştirilir?
+Yakında Eklenecek
