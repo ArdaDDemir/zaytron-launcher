@@ -19,7 +19,9 @@ Minecraft launcher herhangi bir sürüm seçip anında minecrafta girebileceğin
 <p align="left">
   <img src="https://ardademir.me/cdn/Screenshot_4.png" alt="Görsel 2" width="512" height="712">
 </p>
-Açılış Sayfası
+
+**Açılış Sayfası**
+
 <p align="left">
   <img src="https://ardademir.me/cdn/Screenshot_3.png" alt="Görsel 2" width="512" height="712">
 </p>
