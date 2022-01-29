@@ -1,6 +1,6 @@
 # Minecraft Launcher
 
-<img src="http://ardademir.me/cdn/ML.jpg" align="right"
+<img src="http://cdn.ardademir.me/img/ML.jpg" align="right"
      alt="Logo" width="120" height="120">
 
 Minecraft launcher herhangi bir sürüm seçip anında minecrafta girebileceğiniz ücretsiz ve açık kaynaklı bir launcherdır
