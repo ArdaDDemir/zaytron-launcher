@@ -1,7 +1,7 @@
 # Minecraft Launcher
 
 <img src="http://ardademir.me/cdn/ML.jpg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="120">
+     alt="Logo" width="120" height="120">
 
 Minecraft launcher herhangi bir sürüm seçip anında minecrafta girebileceğiniz ücretsiz ve açık kaynaklı bir launcherdır
 
