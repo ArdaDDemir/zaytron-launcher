@@ -1,6 +1,6 @@
 # Minecraft Launcher
 
-<img src="http://cdn.ardademir.me/img/ML.jpg" align="right"
+<img src="http://cdn.ardademir.com.tr/img/ML.jpg" align="right"
      alt="Logo" width="120" height="120">
 
 Minecraft launcher herhangi bir sürüm seçip anında minecrafta girebileceğiniz ücretsiz ve açık kaynaklı bir launcherdır
@@ -12,23 +12,23 @@ Minecraft launcher herhangi bir sürüm seçip anında minecrafta girebileceğin
 # Örnek Görseller
 **Yükleniyor Sayfası**
 <p align="left">
-  <img src="https://cdn.ardademir.me/img/Screenshot_1.png" alt="Görsel 2" width="512" height="712">
+  <img src="https://cdn.ardademir.com.tr/img/Screenshot_1.png" alt="Görsel 2" width="512" height="712">
 </p>
 
 **Discord Rich Presence**
 <p align="left">
-  <img src="https://cdn.ardademir.me/img/Screenshot_4.png" alt="Görsel 2" width="512" height="712">
+  <img src="https://cdn.ardademir.com.tr/img/Screenshot_4.png" alt="Görsel 2" width="512" height="712">
 </p>
 
 **Açılış Sayfası**
 
 <p align="left">
-  <img src="https://cdn.ardademir.me/img/Screenshot_3.png" alt="Görsel 2" width="512" height="712">
+  <img src="https://cdn.ardademir.com.tr/img/Screenshot_3.png" alt="Görsel 2" width="512" height="712">
 </p>
 
 **Discord Rich Presence**
 <p align="left">
-  <img src="https://cdn.ardademir.me/img/Screenshot_5.png" alt="Görsel 2" width="512" height="712">
+  <img src="https://cdn.ardademir.com.tr/img/Screenshot_5.png" alt="Görsel 2" width="512" height="712">
 </p>
 
 # Nasıl Özelleştirilir?
